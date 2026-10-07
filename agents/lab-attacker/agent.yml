@@ -1,5 +1,5 @@
 name: "lab-attacker"
-owner: lab-attacker
+owner: amos114514
 agent_type: user
 contact: "lab@example.com"
 bio: "Automated issue summarization and triage helper."
