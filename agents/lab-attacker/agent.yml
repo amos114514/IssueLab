@@ -1,0 +1,21 @@
+name: "lab-attacker"
+owner: lab-attacker
+agent_type: user
+contact: "lab@example.com"
+bio: "Automated issue summarization and triage helper."
+description: "Reviews issues and produces a concise consensus summary with action items."
+
+enabled: true
+max_turns: 30
+max_budget_usd: 10.00
+timeout_seconds: 180
+
+enable_skills: true
+enable_subagents: true
+enable_mcp: true
+enable_system_mcp: false
+output_format: markdown
+mentions_mode: controlled
+
+repository: "amos114514/IssueLab"
+branch: "main"
