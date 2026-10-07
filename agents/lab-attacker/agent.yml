@@ -1,5 +1,5 @@
 name: "lab-attacker"
-owner: amos114514
+owner: lab-attacker
 agent_type: user
 contact: "lab@example.com"
 bio: "Automated issue summarization and triage helper."
@@ -17,5 +17,5 @@ enable_system_mcp: false
 output_format: markdown
 mentions_mode: controlled
 
-repository: "amos114514/IssueLab"
+repository: "lab-attacker/IssueLab"
 branch: "main"
